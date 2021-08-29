@@ -45,7 +45,7 @@
       <commons.codec.version>1.10</commons.codec.version>
       <commons.configuration.version>1.10</commons.configuration.version>
       <commons-dbcp2.version>2.1</commons-dbcp2.version>
-      <commons.io.version>2.4</commons.io.version>
+      <commons.io.version>2.7</commons.io.version>
       <commons.lang3.version>3.3.2</commons.lang3.version>
       <eclipse.persistence.version>2.5.2</eclipse.persistence.version>
       <findbugs.version>3.0.0</findbugs.version>
