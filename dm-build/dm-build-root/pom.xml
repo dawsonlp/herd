@@ -51,7 +51,7 @@
       <findbugs.version>3.0.0</findbugs.version>
       <hibernate.jpa.api>1.0.0.Final</hibernate.jpa.api>
       <hibernate.validator.version>5.1.2.Final</hibernate.validator.version>
-      <hibernate.version>4.3.6.Final</hibernate.version>
+      <hibernate.version>5.3.20.Final</hibernate.version>
       <h2db.version>1.4.187</h2db.version>
       <jackson.mapper.version>1.9.13</jackson.mapper.version>
       <jackson.version>2.5.4</jackson.version>
